@@ -1,0 +1,61 @@
+#ulu{
+display: flex;
+flex-direction: initial;
+align-items: center;
+justify-content: center;
+background-color: skyblue;
+height: 30px;
+
+}
+
+#menu{
+    margin-left: 10px;
+    display: flex;
+    
+}
+
+#planejados{
+    text-align: center;
+    height: 35px;
+   background-color: rgb(229, 235, 238);
+   margin-top: -15px;
+}
+
+#a{
+    height: 500px;
+    width: 775px;
+}
+
+#b{
+    height: 500px;
+    width: 775px;
+    margin-left: 10px;
+}
+
+#texto{
+ background-color: rgba(214, 224, 228, 0.52);
+
+ height: 100px;
+}
+
+#texto2{
+    background-color: rgba(214, 224, 228, 0.52);
+
+    height: 100px;
+}
+
+footer{
+    background-color: skyblue;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+   
+    
+}
+
+#frase-final{
+
+    color: rgb(255, 255, 255);
+}
+
